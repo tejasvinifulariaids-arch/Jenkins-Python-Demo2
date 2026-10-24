@@ -1,2 +1,5 @@
 print("Hello from Jenkins!")
 print("Build executed successfully.")
+print("Hello from Jenkins!")
+print("Build executed successfully.")
+print("Automatic build test")
